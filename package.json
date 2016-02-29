@@ -1,0 +1,32 @@
+{
+  "name": "nes-ionic-sidemenuscaler",
+  "version": "0.0.1",
+  "description": "NES custom side menu scale animation for the standard ionic side menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewEasySoft/ionic-sidemenuscaler.git"
+  },
+  "keywords": [
+    "ionic",
+    "sidemenu",
+    "scale",
+    "animation"
+  ],
+  "author": "sviluppo@easysoft.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewEasySoft/ionic-sidemenuscaler/issues"
+  },
+  "homepage": "https://github.com/NewEasySoft/ionic-sidemenuscaler#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^0.11.1"
+  }
+}

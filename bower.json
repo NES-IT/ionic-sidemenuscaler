@@ -1,0 +1,27 @@
+{
+  "name": "nes-ionic-sidemenuscaler",
+  "description": "NES custom side menu scale animation for the standard ionic side menu",
+  "main": [
+    "./dist/nes-ionic-scaler.min.css",
+    "./dist/nes.sidemenuscaler.min.js"
+  ],
+  "authors": [
+    "sviluppo@easysoft.me"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ionic",
+    "sidemenu",
+    "scale",
+    "animation"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

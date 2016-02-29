@@ -1,0 +1,30 @@
+ion-side-menu-content.menu-content {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+sidemenu-scaler {
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    height: 100vh;
+    background: #fff;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition: 300ms;
+    transition: 300ms;
+    display: block;
+}
+
+ion-side-menu.menu.menu-left,
+ion-side-menu.menu.menu-left ion-header-bar.bar.bar-header,
+ion-side-menu.menu.menu-left ion-content,
+ion-side-menu.menu.menu-left ion-content ion-list,
+ion-side-menu.menu.menu-left ion-content ion-list ion-item,
+ion-side-menu.menu.menu-left ion-content ion-list ion-item.item,
+ion-side-menu.menu.menu-left ion-content ion-list ion-item.item.item-complex,
+ion-side-menu.menu.menu-left ion-content ion-list ion-item.item.item-complex a{
+    background: transparent;
+    border: none;
+}
